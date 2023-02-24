@@ -8,7 +8,9 @@ while True:
     if inp_numb < 0:
         
         break
-    # Print out the final value of `get_total`.
+    # Otherwise, add `inp_numb` to `get_total`.
+    
     get_total += inp_numb
 
+# Print out the final value of `get_total`.
 print("The final sum is:", get_total)
