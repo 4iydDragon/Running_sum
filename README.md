@@ -1,4 +1,4 @@
-# Initialize a variable `get_tota` to 0.
+# Initialize a variable `get_total` to 0.
 get_total= 0.0
 # While the conidition is True:
 while True:
